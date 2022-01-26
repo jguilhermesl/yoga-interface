@@ -1,0 +1,91 @@
+* { margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+    box-sizing: border-box;
+}
+
+#logo {
+    display: block;
+    font-size: 8rem;
+    text-align: center;
+    margin-top: 3rem;
+    margin-bottom: 2rem;
+}
+
+input {
+    display: block; 
+    margin: 1rem auto 3px auto;
+    height: 46px;
+    width: 321px;
+    border: 1px solid #BBBBBB;
+    background: #F7F7F7;
+    box-shadow: -2px 1px 5px rgba(0, 0, 0, 0.09);
+    border-radius: 10px; 
+    padding-left: 7px;
+}
+
+#forgot-password {
+    display: block;
+    position: relative;
+    left: 15rem;
+    top: 0.5rem;
+}
+
+button {
+    background: #323232;
+    border-radius: 10px;
+    display: block;
+    font-size: 18px;
+    height: 46px;
+    width: 133px;
+    cursor: pointer;
+    border: none;
+    box-shadow: -4px 4px 18px rgba(0, 0, 0, 0.09);
+    color: #fff;
+    margin: 0 auto;
+    position: relative;
+    top: 3rem;
+}
+
+#question-account {
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 4rem;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+p {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    top: 5rem;
+    font-weight: bold;
+}
+
+ul {
+    display: flex;
+    justify-content: space-evenly;
+    position: relative;
+    top: 6rem;
+    list-style: none;
+    margin: 0 8rem;
+    
+}
+
+li {
+    font-size: 1.8rem;
+}
+
+i {
+    color: #323232;
+}
+
+strong {
+     margin: 0 0.25rem;
+}
