@@ -2,7 +2,7 @@
 
 <!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
 
-<img src="./imagens/header (1).png" alt="exemplo imagem">
+<img src="./imagens/yoga-interface.png" alt="Interface do aplicativo Yoga">
 
 > Aba de Login do aplicativo Yoga.
 
